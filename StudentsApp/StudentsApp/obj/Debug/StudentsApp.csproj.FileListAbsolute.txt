@@ -1,0 +1,16 @@
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe.config
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\bin\Debug\StudentsApp.pdb
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\bin\Debug\Microsoft.OData.Client.dll
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\bin\Debug\Microsoft.Spatial.dll
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\bin\Debug\Microsoft.OData.Client.xml
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\bin\Debug\Microsoft.OData.Core.xml
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\bin\Debug\Microsoft.Spatial.xml
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csprojAssemblyReference.cache
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.CoreCompileInputs.cache
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.CopyComplete
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\obj\Debug\StudentsApp.exe
+C:\Users\alavery\source\repos\StudentsApp\StudentsApp\obj\Debug\StudentsApp.pdb
